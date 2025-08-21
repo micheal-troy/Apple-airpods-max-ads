@@ -94,23 +94,8 @@ body {
 
 .prev { left: 10px; }
 .next { right: 10px; }
-@media (min-width: 601px) and (max-width: 1024px) {
-  .container {
-    width: 90%;
-  }
 
-  .content h1 {
-    font-size: 20px;
-  }
 
-  .price {
-    font-size: 20px;
-  }
-
-  .slider-container {
-    height: 250px;
-  }
-}
 @media (min-width: 601px) and (max-width: 1024px) {
   .container {
     width: 90%;
